@@ -20,6 +20,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saktiswarupmishra&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 [![](https://komarev.com/ghpvc/?username=saktiswarupmishra&icon=9&color=8)](https://visitcount.itsvg.in)
 
